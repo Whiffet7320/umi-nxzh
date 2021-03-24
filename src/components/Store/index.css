@@ -1,0 +1,22 @@
+.top{
+  height: 60px;
+  width: 100%;
+}
+.top .breadcrumb{
+  height: 100%;
+  border-bottom: 1px solid #000;
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  font-weight: bold;
+}
+.title{
+  display: flex;
+  margin-left: 120px;
+  margin-top: 20px;
+  align-items: center;
+}
+.title h1{
+  font-size: 40px;
+  margin-right: 30px;
+}

@@ -1,0 +1,35 @@
+.header{
+  height: 100%;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+}
+.header h1{
+  color: inherit;
+  font-size: 1.5rem;
+}
+.header p{
+  display: inline-block;
+  color: inherit;
+  margin: 0 10px;
+}
+.left{
+  display: flex;
+  align-items: center;
+}
+.left h1{
+  margin: 0;
+}
+.left img{
+  width: 40px;
+  height: 40px;
+  margin-right: 20px;
+}
+.shopLogo{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.right{
+  margin-right: 60px;
+}
